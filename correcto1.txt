@@ -1,0 +1,3 @@
+function saludar(a) {
+    console.log(a + 10);
+}

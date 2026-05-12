@@ -1,0 +1,2 @@
+function error1(a) {
+    console.log(a);
