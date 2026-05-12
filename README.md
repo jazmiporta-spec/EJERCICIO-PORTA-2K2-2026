@@ -20,9 +20,11 @@ _Requisitos e Instalación
    npm install
 
 _Cómo ejecutar el analizador
-ejecuta:
-  Bash
-  node index.js
+Puede probar cualquier archivo de la siguiente manera:
+   node index.js [nombre-del-archivo]
+
+Ejemplo:
+node index.js correcto2.txt
 
 _Casos de Prueba
 El repositorio incluye 4 archivos de prueba para verificar el comportamiento:
