@@ -47,3 +47,5 @@ correcto2.txt: <img width="540" height="155" alt="image-1" src="https://github.c
 incorrecto1.txt: <img width="413" height="157" alt="image-2" src="https://github.com/user-attachments/assets/e7bb4420-72c9-4217-a3e3-ac8b32ba2cd2" />
 
 incorrecto2.txt: <img width="371" height="149" alt="image-3" src="https://github.com/user-attachments/assets/b4deb64e-b677-4a7f-8299-4c0755982a40" />
+
+Como en la tabla de evaluación de criterios se solicita explícitamente "Genera la tabla de lexemas - tokens", opté por generarla de manera visual en la consola al ejecutar el análisis. Esto permite verificar de forma inmediata que el Lexer está tokenizando correctamente cada entrada.
