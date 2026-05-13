@@ -18,7 +18,7 @@ _Requisitos e Instalación
 3. Instalar la librería de ANTLR4 para JavaScript:
    ```bash
    npm install
-5. Abrir la librería:
+5. Abrir el repositorio:
    ```bash
    code .
 
