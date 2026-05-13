@@ -15,9 +15,12 @@ _Requisitos e Instalación
 2. Clonar este repositorio y entrar a la carpeta:
    ```bash
    cd EJERCICIO-PORTA-2K2-2026
-3. Instalar la librería de ANTLR4 para JavaScript: 
-   Bash
+3. Instalar la librería de ANTLR4 para JavaScript:
+   ```bash
    npm install
+5. Abrir la librería:
+   ```bash
+   code .
 
 _Cómo ejecutar el analizador
 Puede probar cualquier archivo de la siguiente manera:
