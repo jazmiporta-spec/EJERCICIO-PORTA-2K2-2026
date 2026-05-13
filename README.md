@@ -39,8 +39,10 @@ El repositorio incluye 4 archivos de prueba para verificar el comportamiento:
        incorrecto1.txt: Falta de llave de cierre } para verificar error de estructura.incorrecto2.txt: Uso de palabras clave erróneas (func en lugar de function).
 
 *Como acotación, no logré ejecutar el árbol en VisualStudio, pero sí logré hacerlo en Antlr Lab por lo que adjunto las imágenes correspondientes
-correcto1.txt: (image.png) <img width="459" height="157" alt="image" src="https://github.com/user-attachments/assets/aeb5ed19-494b-4515-bdba-7fee5cb13fa9" />
+correcto1.txt:  <img width="459" height="157" alt="image" src="https://github.com/user-attachments/assets/aeb5ed19-494b-4515-bdba-7fee5cb13fa9" />
 
-correcto2.txt: (image-1.png)
-incorrecto1.txt: (image-2.png)
-incorrecto2.txt: (image-3.png)
+correcto2.txt: <img width="540" height="155" alt="image-1" src="https://github.com/user-attachments/assets/3976def2-e4ff-4354-bc7b-7ba4f17808b8" />
+
+incorrecto1.txt: <img width="413" height="157" alt="image-2" src="https://github.com/user-attachments/assets/e7bb4420-72c9-4217-a3e3-ac8b32ba2cd2" />
+
+incorrecto2.txt: <img width="371" height="149" alt="image-3" src="https://github.com/user-attachments/assets/b4deb64e-b677-4a7f-8299-4c0755982a40" />
