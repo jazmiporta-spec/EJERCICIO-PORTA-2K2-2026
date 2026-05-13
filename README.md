@@ -14,7 +14,7 @@ _Requisitos e Instalación
 1. Tener instalado [Node.js](https://nodejs.org/).
 2. Clonar este repositorio y entrar a la carpeta:
    ```bash
-   cd ssl-antlr-calculator
+   cd EJERCICIO-PORTA-2K2-2026
 3. Instalar la librería de ANTLR4 para JavaScript: 
    Bash
    npm install
